@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">COVID-19 News</string>
+    <string name="hint">CLick on the card to view full article</string>
+</resources>
